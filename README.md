@@ -5,7 +5,7 @@
 **Executive Summary:**
 Developed an enterprise-level Power BI dashboard to track, analyze, and optimize global sales performance for a chocolate distribution business operating across major international markets (USA, UK, India, Canada, Australia, New Zealand). The solution aggregates $27.99M in total revenue and 2M units in distribution volume, transforming raw sales ledgers into dynamic, actionable commercial insights.
 
-![image]()
+![image](https://github.com/anshulraj2098/Power-BI---Sales-Distribution-Dataset/blob/main/Sales%20Dashboard.png?raw=true)
 
 ## Core Architecture & Features: 
 - Time-Series Revenue Analysis: Evaluates monthly cash-inflow trends to identify cyclical demand spikes and seasonal drops across a multi-year timeline (Jan 2023 – Sept 2024).
