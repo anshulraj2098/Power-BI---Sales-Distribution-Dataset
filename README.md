@@ -24,12 +24,8 @@ Developed an enterprise-level Power BI dashboard to track, analyze, and optimize
 - Revenue Stability: Despite monthly fluctuations, the business maintains a healthy baseline, rarely dropping below $1.0M per month in standard operating periods, showing strong product-market fit across its core catalog
 
 ## Business Questions Answered by the Dashboard:
-1. What is the aggregate revenue scale and volume velocity of the distribution network over the active operating cycle?
-
-3. How does cash flow fluctuate month-over-month, and are there visible seasonal anomalies affecting the supply chain?
-4. Which international regions dominate our market share, and where are we exposed to concentration risk?
-5. Which specific product SKUs drive the bulk of commercial value, and which are underperforming?
-6. Who are the high-performing asset drivers within our sales team, and what is the variance between top and bottom-tier performers?
-
-
-
+1. How much total money did we make and how many boxes did we sell?
+2. Does our monthly income stay steady, or does it go up and down?
+3. Which countries buy the most from us?
+4. What are our best-selling chocolates, and which ones are failing?
+5. Who is our top salesperson, and how is the rest of the team doing?
