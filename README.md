@@ -20,3 +20,5 @@ Developed an enterprise-level Power BI dashboard to track, analyze, and optimize
 3. Which international regions dominate our market share, and where are we exposed to concentration risk?
 4. Which specific product SKUs drive the bulk of commercial value, and which are underperforming?
 5. Who are the high-performing asset drivers within our sales team, and what is the variance between top and bottom-tier performers?
+
+![image](https://github.com/anshulraj2098/Power-BI---Sales-Distribution-Dataset/blob/main/Sales%20Dashboard.png?raw=true)
